@@ -1,0 +1,6 @@
+@AlicanApi_HostAddress = http://localhost:5163
+
+GET {{AlicanApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
